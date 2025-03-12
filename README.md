@@ -4,6 +4,9 @@ It is a simple grade keeper that allows users to add classes and keep their grad
 LOOK AT PHOTOS :)
 
 
+EASIER TO READ IN RAW/CODE
+
+
 TABS:
   Set up New Class:
     - Add a new class.

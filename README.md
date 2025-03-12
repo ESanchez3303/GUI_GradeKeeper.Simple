@@ -3,6 +3,7 @@ It is a simple grade keeper that allows users to add classes and keep their grad
 
 LOOK AT PHOTOS :)
 
+
 TABS:
   Set up New Class:
     - Add a new class.
